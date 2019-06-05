@@ -33,14 +33,8 @@ It can be seen that yolo v3 has a better classification ability than yolo v2.
 
 - Train the model.
 
-## Reference
+##Loss Function
 
-	@article{YOLOv3,  
-	  title={YOLOv3: An Incremental Improvement},  
-	  author={J Redmon, A Farhadi },
-	  year={2018}
+<img width="400" height="350" src="/optimizer/comparison.gif"/><img width="400" height="350" src="/optimizer/contours_evaluation_optimizers.gif"/>
+<img width="400" height="350" src="/optimizer/saddle_point_evaluation_optimizers.gif"/>
 
-
-
-## Copyright
-See [LICENSE](LICENSE) for details.
