@@ -1,0 +1,1 @@
+Shows how the optimizer optimizes the loss in comparizon to others
